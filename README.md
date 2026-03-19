@@ -83,14 +83,6 @@ Note: The dataset does not include advertising spend. Simulated cost was introdu
 
 ---
 
-## 📊 Dashboard
-
-Screenshots:
-
-(Add your dashboard screenshots here)
-
----
-
 ## 🚀 Outcome
 
 This project demonstrates the ability to:
