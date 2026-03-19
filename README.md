@@ -65,6 +65,17 @@ Note: The dataset does not include advertising spend. Simulated cost was introdu
 
 ---
 
+## 📂 SQL Queries
+
+Key SQL queries used for KPI computation and campaign analysis are included in the `/sql` folder.
+
+These queries demonstrate:
+- Aggregation of session-level data
+- Calculation of conversion rate, AOV, and revenue per session
+- Campaign-level performance analysis
+
+---
+
 ## 🔍 Key Insights
 
 - Overall performance shows a conversion rate of ~1.6% and revenue per session of ~$2.5
