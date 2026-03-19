@@ -101,9 +101,10 @@ You can view the dashboard here:
 [Download Dashboard (PDF)](Copy_of_RetailMediaCampaignPerformanceDashboard (1).pdf)
 
 ### BigQuery Analysis
-![BigQuery](images/bigquery_query.png)
+images/GAConsole_BigQuery.png
 
 ### Looker Studio
+images/LookerDashboard.png
 ---
 
 ## 🚀 Outcome
