@@ -97,9 +97,13 @@ These queries demonstrate:
 ## 📊 Dashboard
 
 You can view the dashboard here:
-
+### Dashboard
 [Download Dashboard (PDF)](Copy_of_RetailMediaCampaignPerformanceDashboard (1).pdf)
 
+### BigQuery Analysis
+![BigQuery](images/bigquery_query.png)
+
+### Looker Studio
 ---
 
 ## 🚀 Outcome
