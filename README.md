@@ -1,5 +1,7 @@
-# retail-media-performance-dashboard
-Retail media analytics dashboard analyzing ROAS, CVR, spend efficiency, and campaign performance
+# Retail Media Campaign Performance Dashboard (GA Sample + Simulated Spend)
+
+Retail media campaign performance analysis...
+
 # Retail Media Campaign Performance Dashboard (GA Sample + Simulated Spend)
 
 ## 📌 Overview
@@ -14,10 +16,10 @@ The analysis focuses on sessions, revenue, conversion rate, and simulated return
 
 Retail media teams must determine:
 
-- Which campaigns drive revenue
-- Which campaigns are efficient
-- Which campaigns are profitable
-- Where to reallocate budget for maximum return
+• Which campaigns drive revenue  
+• Which campaigns are efficient  
+• Which campaigns are profitable  
+• Where to reallocate budget for maximum return
 
 ---
 
