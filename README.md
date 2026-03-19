@@ -83,6 +83,14 @@ Note: The dataset does not include advertising spend. Simulated cost was introdu
 
 ---
 
+## 📊 Dashboard
+
+You can view the dashboard here:
+
+[Download Dashboard (PDF)](Copy_of_RetailMediaCampaignPerformanceDashboard (1).pdf)
+
+---
+
 ## 🚀 Outcome
 
 This project demonstrates the ability to:
