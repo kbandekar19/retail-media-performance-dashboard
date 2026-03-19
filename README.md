@@ -1,8 +1,8 @@
 # Retail Media Campaign Performance Dashboard (GA Sample + Simulated Spend)
 
-Retail media campaign performance analysis...
+🔗 Built using BigQuery + Looker Studio | Focus: Retail Media Analytics & ROAS Modeling
 
-# Retail Media Campaign Performance Dashboard (GA Sample + Simulated Spend)
+Retail media campaign performance analysis using BigQuery and Looker Studio, modeling ROAS, CVR, and budget allocation strategies.
 
 ## 📌 Overview
 
